@@ -1,0 +1,16 @@
+[
+  {
+    "titre": "agora",
+    "ville": "tadj",
+    "prise": "oui",
+    "prix": 850,
+    "id": 4
+  },
+  {
+    "titre": "jsp",
+    "ville": "Bordeaux",
+    "prise": "oui",
+    "prix": 700,
+    "id": 5
+  }
+]
